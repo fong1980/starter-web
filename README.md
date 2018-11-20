@@ -19,4 +19,4 @@ please for this repo and the issue pull requests for review.
 
 ### copyright
 
-2014 git.training. 
+2014 git.training. All right reserved.
